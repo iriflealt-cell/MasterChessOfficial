@@ -1,1 +1,14 @@
-
+{
+  "name": "chessmaster",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "discord.js": "^14.27.0",
+    "dotenv": "^16.4.7"
+  }
+}
